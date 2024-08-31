@@ -54,31 +54,29 @@ main p{
     margin: 0px 0px 20px 20px;
     color: white;
     padding: 5px;
-    background-color: rgba(0, 0, 0, 0.514);
-    text-shadow: 1px 1px 0px black;
+    background-color: rgba(0, 0, 0, 0.258);
+    box-shadow: 1px 1px 0px black;
 }
 
 #img01{
-    background-image: url(../pacote-d012/imagens/background001.jpg);
-    background-position: right center;
+    background: rgb(0, 0, 0) url(../pacote-d012/imagens/background001.jpg) right no-repeat fixed;
     background-size: cover;
-    background-attachment: fixed;
+
 }
 
 .quarto > p{
     display: inline-block;
     margin: 0px 0px 20px 20px;;
-    padding: 10px;
+    padding: 5px;
     color: white;
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px black;
 }
 
 #img02{
-    background-image: url(../pacote-d012/imagens/background002.jpg);
-    background-position: right center;
+    background: black url(../pacote-d012/imagens/background002.jpg) right no-repeat fixed;
     background-size: cover;
-    background-attachment: fixed;
+   
 }
 
 footer{
