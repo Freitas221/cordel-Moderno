@@ -8,8 +8,8 @@ body{
 }
 
 main{
-    min-width: 500px;
-    max-width: 1500px;
+    min-width: auto;
+    max-width: 100%;
 }
 
 header{
